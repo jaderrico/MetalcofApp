@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/fondo1" /> <!-- Tu imagen de fondo -->
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:angle="90"
+                android:startColor="#000000"
+            android:endColor="#80408E8E"/>
+        </shape>
+    </item>
+</layer-list>

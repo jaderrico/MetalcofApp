@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MetalcofApp</string>
+    <string name="txtDocumento">No. Documento:</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtDireccion">Dirección:</string>
+    <string name="txtCiudad">Ciudad:</string>
+    <string name="txtTelefono">Teléfono:</string>
+    <string name="txtContrasena">Contraseña:</string>
+    <string name="btnResgistrar">REGISTRAR</string>
+    <string name="btnIngresar">INGRESAR</string>
+    <string name="btnRegistro">Registrate</string>
+    <string name="btnCatalogo">Catalogo</string>
+
+    <string name="chasis_elaborado_con_angulo_de_3_4_x_1_8_y_tubo_cuadrado_50_x_50_mm_forrado_en_l_mina_cr_18_con_2_rec_maras_de_combusti_n_rectangular_rodeada_de_adoquines_paredes_recubiertas_con_mortero_cer_mico_refractario_sistema_de_doble_pared_interna_para_aislamiento_de_calor_por_ceniza_buitr_n_de_244_9_9_cm_elaborado_en_l_mina_calibre_22_parrilla_inferior_portale_a_con_gabinetes_remarco_distanciador_perimetral">Chasis elaborado con Angulo de 3/4” x 1/8” y tubo cuadrado 50 x 50 mm, forrado en lámina CR/18 con 2 recámaras de combustión rectangular rodeada de adoquines. Paredes recubiertas con mortero cerámico refractario. Sistema de doble pared interna para aislamiento de calor por ceniza. Buitrón de 244 × 9 × 9 cm elaborado en lámina calibre 22. Parrilla inferior portaleña con gabinetes. Remarco distanciador perimetral.</string>
+    <string name="chasis_elaborado_con_angulo_de_3_4_x_1_8_y_tubo_cuadrado_50_x_50_mm_forrado_en_l_mina_cr_18_con_rec_mara_de_combusti_n_rectangular_rodeada_de_mortero_cer_mico_refractario_y_adoquines_buitr_n_de_244_9_9_cm_elaborado_en_l_mina_galvanizada_calibre_22_sistema_de_doble_pared_interna_para_aislamiento_de_calor_por_ceniza_parrilla_inferior_portale_a_remarco_distanciador">Chasis elaborado con Angulo de 3/4” x 1/8” y tubo cuadrado 50 x 50 mm, forrado en lámina CR/18 con recámara de combustión rectangular rodeada de mortero cerámico refractario y adoquines. Buitrón de 244 × 9 × 9 cm elaborado en lámina galvanizada calibre 22. Sistema de doble pared interna para aislamiento de calor por ceniza. Parrilla inferior portaleña. Remarco distanciador.</string>
+    <string name="chasis_elaborado_con_angulo_de_3_4_x_1_8_y_tubo_cuadrado_50_x_50_mm_forrado_en_l_mina_cr_18_con_rec_mara_de_combusti_n_rectangular_rodeada_de_mortero_cer_mico_refractario_y_adoquines_buitr_n_de_244_9_9_cm_elaborado_en_l_mina_galvanizada_calibre_22_sistema_de_doble_pared_interna_para_aislamiento_de_calor_por_ceniza_parrilla_inferior_portale_a_remarco_distanciador_perimetral">Chasis elaborado con Angulo de 3/4” x 1/8” y tubo cuadrado 50 x 50 mm, forrado en lámina CR/18 con recámara de combustión rectangular rodeada de mortero cerámico refractario y adoquines. Buitrón de 244 × 9 × 9 cm elaborado en lámina galvanizada calibre 22. Sistema de doble pared interna para aislamiento de calor por ceniza. Parrilla inferior portaleña. Remarco distanciador perimetral.</string>
+    <string name="chasis_elaborado_con_angulo_de_3_4_x_1_8_y_tubo_cuadrado_50_x_50_mm_forrado_en_l_mina_cr_18_con_rec_mara_de_combusti_n_rectangular_rodeada_de_mortero_cer_mico_refractario_y_adoquines_buitr_n_de_244_9_9_cm_elaborado_en_l_mina_galvanizada_calibre_22_sistema_de_doble_pared_interna_para_aislamiento_de_calor_por_ceniza_parrilla_inferior_portale_a_con_gabinetes_remarco_distanciador">Chasis elaborado con Angulo de 3/4” x 1/8” y tubo cuadrado 50 x 50 mm, forrado en lámina CR/18 con recámara de combustión rectangular rodeada de mortero cerámico refractario y adoquines. Buitrón de 244 × 9 × 9 cm elaborado en lámina galvanizada calibre 22. Sistema de doble pared interna para aislamiento de calor por ceniza. Parrilla inferior portaleña con gabinetes. Remarco distanciador.</string>
+    <string name="txtCatalogo">CATALOGO</string>
+    <string name="txtEstufas">Estufas Ecoeficientes METALCOF</string>
+    <string name="txtTitulo1">Estufa Baraya</string>
+    <string name="txtTitulo2">Estufa Palermo</string>
+    <string name="txtTitulo3">Estufa Palermo Mixta</string>
+    <string name="txtTitulo4">Estufa Teruel</string>
+    <string name="btnCarrito1" />
+    <string name="btnCarrito2" />
+    <string name="btnCarrito3" />
+    <string name="btnCarrito4" />
+
+
+
+</resources>
